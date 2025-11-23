@@ -123,6 +123,7 @@ dmypy.json
 .pyre/
 
 # IDE
+.kaggle/
 .vscode/
 .idea/
 *.swp
